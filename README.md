@@ -8,7 +8,7 @@ Built with pure HTML, CSS and JavaScript. No frameworks, no dependencies, no int
 
 ## 🎮 How to play
 
-1. Download the file `pingpong_quiz.html`
+1. Download the file `pagina web_Tenis de Mesa.html`
 2. Find it in your Downloads folder
 3. **Right-click → Open with → your browser** (Chrome, Firefox, Edge, Safari)
 
