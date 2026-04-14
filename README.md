@@ -38,8 +38,8 @@ At the end you get a final result with accuracy percentage and a verdict based o
 ---
 
 ## 📁 File structure
-pingpong-trivia/
-└── pingpong_quiz.html   ← everything is here, one single file
+WEBQUEST/
+└── pagina web_Tenis de Mesa.html   ← everything is here, one single file
 
 ---
 
